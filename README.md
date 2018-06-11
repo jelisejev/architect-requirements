@@ -64,16 +64,15 @@
     1. Types (e.g. document, graph, time-series, column, key-value)
     2. Popular DBMS
 1. Comparing SQL and NoSQL databases (advantages and trade offs, areas of applicability)
+1. Consistency models (e.g. ACID, BASE)
+1. Data versioning approaches (e.g. patching, migrations)
 1. Advanced questions:
-    1. Consistency models (e.g. ACID, BASE)
-    1. Data versioning approaches
-    1. Sharding technologies (natively by DBMS and by third-party technologies)
-    1. Big data processing (architectures, technologies)
+    1. Big data processing (architectures, technologies, four Vs)
     1. Full text search/fuzzy search (DBMS-native and third-party technologies)
     1. GIS data processing and available technologies (DBMS-native and third-party)
-    1. Data scaling
-    1. ETL (concepts of data landing, staging, concepts of virtual DWH)
-    1. Data security (encryption)
+    1. Partitioning and replication
+    1. ETL ((concepts of data landing, staging, concepts of virtual DWH))
+    1. Encryption
 
 ## **Software Development Process**
 1. Project setup
