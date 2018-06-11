@@ -51,10 +51,10 @@
     1. Business continuity
 1. Security
     1. Authentication 
-    2. Authorization (e.g. role-based, row-based security)
+    2. Authorization (e.g. role-based, row-based security, column-based security)
     1. Popular protocols (e.g. Saml, oAuth,  OpenID Connect)
     1. Single sign-on
-    1. Data protection (e.g. encryption in transit and at rest)
+    1. Data encryption and key management
 
 ## **Data Access**
 1. RDBMS (Oracle, MS SQL, PostgreSQL, MySQL; practical experience with at least one of these)
