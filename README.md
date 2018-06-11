@@ -21,7 +21,7 @@
         1. Layering/Componentization
         1. Multi-threading and concurrency
     1. Mobile
-     	1. Cross-platform development
+     	1. Cross-platform development (e.g. Xamarin, React Native, Ionic)
      	
 1. Low-level Aspects of Architecture
    1. Peculiarities of operating systems
