@@ -9,31 +9,26 @@
     1. Templates (e.g. arc42, architecture decision records)
     1. Visualization approaches (e.g. C4)
 ## **Application Development**
-1. Backend
-    1. Languages and Frameworks
-    1. Layering/Componentization
-    1. Multi-threading and concurrency
-    1. Performance
-    1. Security
-1. Frontend (UI)
-    1. Web UI
-        1. Languages and Frameworks
-     	1. Performance
-     	1. Security
+
+1. Backend, web frontend and, optionally, mobile development
+    1. Popular languages and frameworks
+    2. Performance (e.g. popular causes of bottlenecks and profiling methods)
+    3. Security aspects (e.g. usual attack vectors and counter-measures)
+    4. Debugging tools and techniques
+
+1. Platform-specific questions
+    1. Backend
+        1. Layering/Componentization
+        1. Multi-threading and concurrency
     1. Mobile
-     	1. Languages and Frameworks (native, hybrid, cross-platform)
-     	1. Performance
-     	1. Security
-1. Optimization and Problem Solving
-    1. Origin of technical bottlenecks and application malfunctions, how to identify and resolve
-    1. Optimization/refactoring/re-engineering best practices and prioritization
-    1. Performance analysis and tuning
-    1. Remote debugging
+     	1. Cross-platform development
+     	
 1. Low-level Aspects of Architecture
    1. Peculiarities of operating systems
    1. Memory Management
    1. Inter-process communication
    1. Network Protocols (at least TCP/IP to HTTP(S))
+   
 ## **Enterprise Architecture**
 1. Architecture styles and types (client/server, layered architecture, service-oriented architecture, domain-driven design, event-driven architecture)
 1. Application Integration Patterns
