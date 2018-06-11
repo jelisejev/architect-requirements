@@ -46,7 +46,7 @@
 1. Non-Functional Aspects (Availability, Scalability, Reliability)
     1. High availability (e.g. eliminating single points of failure, redundancy)
     1. Scaling and load balancing
-    1. Raw Performance
+    1. Performance (e.g. requirements and metrics)
     1. Application resilience
     1. Business continuity
 1. Security
