@@ -57,18 +57,23 @@
     1. Data encryption and key management
 
 ## **Data Access**
-1. RDBMS (Oracle, MS SQL, PostgreSQL, MySQL; practical experience with at least one of these)
-1. SQL (DML, DDL, Stored Procedures � specifics of mainstream DBs)
-1. NoSQL DBMS (types, areas of applicability, practical experience is advantage)
-1. Difference/comparison SQL � NoSQL, ACID � BASE
-1. Data versioning approaches
-1. Sharding technologies (natively by DBMS and by third-party technologies)
-1. Big data processing (architectures, technologies)
-1. Full text search/fuzzy search (DBMS-native and third-party technologies)
-1. GIS data processing and available technologies (DBMS-native and third-party)
-1. Data scaling
-1. ETL (concepts of data landing, staging, concepts of virtual DWH)
-1. Data security (encryption)
+
+1. SQL
+    1. RDBMS (e.g. Oracle, MS SQL, PostgreSQL, MySQL; practical experience with at least one of these)
+    1. SQL (DML, DDL, Stored Procedures and specifics of mainstream DBs)
+1. NoSQL 
+    1. Types (e.g. document, graph, time-series, column, key-value)
+    2. Popular DBMS
+1. Comparing SQL and NoSQL databases (advantages and trade offs, areas of applicability)
+1. Consistency models (e.g. ACID, BASE)
+1. Data versioning approaches (e.g. patching, migrations)
+1. Advanced questions:
+    1. Big data processing (architectures, technologies, four Vs)
+    1. Full text search/fuzzy search (DBMS-native and third-party technologies)
+    1. GIS data processing and available technologies (DBMS-native and third-party)
+    1. Partitioning and replication
+    1. ETL ((concepts of data landing, staging, concepts of virtual DWH))
+    1. Encryption
 
 ## **Software Development Process**
 1. Project setup
