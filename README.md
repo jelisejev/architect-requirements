@@ -66,7 +66,7 @@
 1. Full text search/fuzzy search (DBMS-native and third-party technologies)
 1. GIS data processing and available technologies (DBMS-native and third-party)
 1. Data scaling
-1. ETL
+1. ETL (concepts of data landing, staging, concepts of virtual DWH)
 1. Data security (encryption)
 
 ## **Software Development Process**
