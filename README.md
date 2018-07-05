@@ -1,6 +1,18 @@
-# Software Architect Topics and Responsibility Areas
+# Software Architect Position in C.T.Co
 
-## **Architecture Design and Programming Paradigms**
+A manifest clarifying what is expected from a Software Architect in C.T.Co.
+
+## Job Description
+
+1. Architecture-related requirements collection
+1. Architecture and design documentation preparation
+1. Presentation of architecture and design to business people
+1. Ability to develop a project from scratch in solo mode
+1. At least Upper-Intermediate level of English
+
+## Required technical expertise
+
+### **Architecture Design and Programming Paradigms**
 1. Algorithms and Data Structures
 1. Programming Paradigms (OOP, AOP, functional, imperative, declarative)
 1. Design principles (e.g. Separation of concerns, Single responsibility principle, Principle of least knowledge, Evolutionary design)
@@ -8,7 +20,7 @@
     1. Diagraming notations (UML, Crow's Foot, etc.)
     1. Templates (e.g. arc42, architecture decision records)
     1. Visualization approaches (e.g. C4)
-## **Application Development**
+### **Application Development**
 
 1. Backend, web frontend and, optionally, mobile development
     1. Popular languages and frameworks
@@ -29,7 +41,7 @@
    1. Inter-process communication
    1. Network Protocols (at least TCP/IP to HTTP(S))
    
-## **Enterprise Architecture**
+### **Enterprise Architecture**
 1. Architecture styles and types (client/server, layered architecture, service-oriented architecture, domain-driven design, event-driven architecture)
 1. Application Integration Patterns
     1. Remote invocation (API&#39;s)
@@ -51,7 +63,7 @@
     1. Single sign-on
     1. Data encryption and key management
 
-## **Data Access**
+### **Data Access**
 
 1. SQL
     1. RDBMS (e.g. Oracle, MS SQL, PostgreSQL, MySQL; practical experience with at least one of these)
@@ -70,7 +82,7 @@
     1. ETL ((concepts of data landing, staging, concepts of virtual DWH))
     1. Encryption
 
-## **Software Development Process**
+### **Software Development Process**
 1. Project setup
     1. Epic/story breakdown
     1. Initial estimating
@@ -99,7 +111,7 @@
     1. Distributed system monitoring and traceability
     1. Operation scenarios (i.e. what to do in case of a particular failure)
 
-## **Operations, Tools and Frameworks**
+### **Operations, Tools and Frameworks**
 1. Hosting types (on-premise, cloud or hybrid)
 1. Virtualization:
     1. Virtualization types
@@ -118,14 +130,7 @@
 1. Identity service providers (e.g. social logins, Azure Active Directory, Cognito, Cas, Okta etc.)
 1. Monitoring solutions (e.g. Application insights, Elastic Stack, Prometheus)
 
-## **Legal and Compliance**
+### **Legal and Compliance**
 1. International/government rules and legal issues that can affect applications&#39; architecture
 2. Data protection (legal aspects of)
 3. Types of software licenses and their impact on applications&#39; technology stack
-
-## **Capabilities**
-1. Architecture-related requirements collection
-1. Architecture and design documentation preparation
-1. Presentation of architecture and design to business people
-1. Ability to develop a project from scratch in solo mode
-1. At least Upper-Intermediate level of English
