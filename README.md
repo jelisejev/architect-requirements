@@ -4,11 +4,15 @@ A manifest clarifying what is expected from a Software Architect in C.T.Co.
 
 ## Job Description
 
-1. Architecture-related requirements collection
-1. Architecture and design documentation preparation
-1. Presentation of architecture and design to business people
-1. Ability to develop a project from scratch in solo mode
-1. At least Upper-Intermediate level of English
+A Software Architect should be able to:
+1. Analyse and understand business requirements of a project
+1. Investigate different ways to address the business requirements of a project, identify their strengths and limitations.
+1. Propose an architecture and techical stack suitable to implement the project, considering possible client's constraints
+1. Propose a roadmap to implement the project
+1. Present and explain the architecture to the relevant stakeholders, both technical and business-oriented
+1. Assess the resources requirement to implement the project and set up a team
+1. Contribute to development and, if necessary, develop a project on his own
+1. Efficiently work with both existing and new clients
 
 ## Required technical expertise
 
