@@ -1,9 +1,30 @@
 # Software Architect Topics and Responsibility Areas
 
-## **Architecture Design and Programming Paradigms**
-1. Algorithms and Data Structures
-1. Programming Paradigms (OOP, AOP, functional, imperative, declarative)
+## **Architecture Design**
 1. Design principles (e.g. Separation of concerns, Single responsibility principle, Principle of least knowledge, Evolutionary design)
+1. Architecture styles and types (client/server, layered architecture, service-oriented architecture, domain-driven design, event-driven architecture)
+1. Application Integration Patterns
+    1. Remote invocation (API&#39;s)
+        1. Protocols (e.g. Rest, RPC, GraphQL)
+        1. API design (e.g. api first, versioning)
+    1. Messaging
+        1. Queues and Topics
+        1. Events
+1. Non-Functional Aspects (Availability, Scalability, Reliability)
+    1. High availability (e.g. eliminating single points of failure, redundancy)
+    1. Scaling and load balancing
+    1. Performance (e.g. requirements and metrics)
+    1. Application resilience
+    1. Business continuity
+1. Security
+    1. Authentication 
+    2. Authorization (e.g. role-based, row-based security, column-based security)
+    1. Popular protocols (e.g. Saml, oAuth,  OpenID Connect)
+    1. Single sign-on
+    1. Data encryption and key management
+1. Programming concepts
+    1. Algorithms and data structures
+    1. Paradigms (e.g. OOP, AOP, functional, imperative, declarative)
 1. Architecture documentation
     1. Diagraming notations (UML, Crow's Foot, etc.)
     1. Templates (e.g. arc42, architecture decision records)
@@ -28,28 +49,6 @@
    1. Memory Management
    1. Inter-process communication
    1. Network Protocols (at least TCP/IP to HTTP(S))
-   
-## **Enterprise Architecture**
-1. Architecture styles and types (client/server, layered architecture, service-oriented architecture, domain-driven design, event-driven architecture)
-1. Application Integration Patterns
-    1. Remote invocation (API&#39;s)
-        1. Protocols (e.g. Rest, RPC, GraphQL)
-        1. API design (e.g. api first, versioning)
-    1. Messaging
-        1. Queues and Topics
-        1. Events
-1. Non-Functional Aspects (Availability, Scalability, Reliability)
-    1. High availability (e.g. eliminating single points of failure, redundancy)
-    1. Scaling and load balancing
-    1. Performance (e.g. requirements and metrics)
-    1. Application resilience
-    1. Business continuity
-1. Security
-    1. Authentication 
-    2. Authorization (e.g. role-based, row-based security, column-based security)
-    1. Popular protocols (e.g. Saml, oAuth,  OpenID Connect)
-    1. Single sign-on
-    1. Data encryption and key management
 
 ## **Data Access**
 
