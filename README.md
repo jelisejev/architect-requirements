@@ -4,7 +4,7 @@ A manifest clarifying what is expected from a Software Architect in C.T.Co.
 
 ## Job Description
 
-A Software Architect should be able to:
+A Software Architect must be able to:
 1. Analyse and understand business requirements of a project
 1. Investigate different ways to address the business requirements of a project, identify their strengths and limitations.
 1. Propose an architecture and techical stack suitable to implement the project, considering possible client's constraints
@@ -13,6 +13,11 @@ A Software Architect should be able to:
 1. Assess the resources requirement to implement the project and set up a team
 1. Contribute to development and, if necessary, develop a project on his own
 1. Efficiently work with both existing and new clients
+
+A Software architect is not required (although being able to is a bonus) to:
+1. Have in-depth understanding of the business of the client: we expect the client to work with us and explain the most relevant and important aspects
+2. Have deep understanding or experience with each and every technology out there: we have developers who can contribute their experience to clarity details
+3. Contribute to the whole landscape of an organization: this is something we expect from Solution Architects.
 
 ## Required technical expertise
 
