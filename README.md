@@ -22,15 +22,15 @@
     1. Popular protocols (e.g. Saml, oAuth,  OpenID Connect)
     1. Single sign-on
     1. Data encryption and key management
-1. Programming concepts
-    1. Algorithms and data structures
-    1. Paradigms (e.g. OOP, AOP, functional, imperative, declarative)
 1. Architecture documentation
     1. Diagraming notations (UML, Crow's Foot, etc.)
     1. Templates (e.g. arc42, architecture decision records)
     1. Visualization approaches (e.g. C4)
 ## **Application Development**
 
+1. Programming concepts
+    1. Algorithms and data structures
+    1. Paradigms (e.g. OOP, AOP, functional, imperative, declarative)
 1. Backend, web frontend and, optionally, mobile development
     1. Popular languages and frameworks
     2. Performance (e.g. popular causes of bottlenecks and profiling methods)
