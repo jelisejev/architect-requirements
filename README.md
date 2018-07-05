@@ -9,6 +9,7 @@ A Software Architect must be able to:
 1. Investigate different ways to address the business requirements of a project, identify their strengths and limitations.
 1. Propose an architecture and techical stack suitable to implement the project, considering possible client's constraints
 1. Propose a roadmap to implement the project
+1. Investigate new and unfamiliar technologies and create quick proof of concepts
 1. Present and explain the architecture to the relevant stakeholders, both technical and business-oriented
 1. Assess the resources requirement to implement the project and set up a team
 1. Contribute to development and, if necessary, develop a project on his own
